@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-*   🌍  I'm based in Nigeria
+*   🌍  I based in Nigeria
 *   ✉️  You can contact me at [raymondamem525@gmail.com](mailto:raymondamem525@gmail.com)
 *   🧠  I'm learning Arduino/Embedded systems,, DevOps, Linux, es6, NodeJS and server-side language
 *   🤝  I'm open to collaborating on Arduino/Embedded systems, front-end web development and shell scripting
