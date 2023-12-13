@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raymond A. Amem
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)am Raymond A. Amem
 =======================================================================================================================================
 
-Web Developer
+Software Developer
 -------------
 
-*   🌍  I base in Nigeria
+*   🌍  From Nigeria
 *   ✉️  You can contact me at [raymondamem525@gmail.com](mailto:raymondamem525@gmail.com)
-*   🧠  I'm learning Arduino/Embedded systems,, DevOps, Linux, es6, NodeJS and server-side language
-*   🤝  I'm open to collaborating on Arduino/Embedded systems, front-end web development and shell scripting
-*   ⚡  I love SCSS as a front-end dev 😄
+*   🧠  I'm currently into Web development: NodeJs(express, firebase) Reactjs, Vue and Nuxt alonge with SCSS and Tailwindcss, Desktopapp: ElectronJs, Arduino/Embedded systems Design and Simulations: Arduino IDE and Protues, DevOps(...).
+*   🤝  I'm open to collaborating on 🧲 Web Development 🧲, Arduino/Embedded systems, Desktop apps and mobile apps.
+*   ⚡  I love SCSS and Tailwind as an experienced front-end dev, tweaking it with frontend frameworks 😄
 <a href="https://www.github.com/Raymondamem" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Raymondamem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/Raymond59365802" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Raymond59365802?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 
