@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)am Raymond A. Amem
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) am Raymond A. Amem
 =======================================================================================================================================
 
 Software Developer
 -------------
 
 *   🌍  From Nigeria
-*   ✉️  You can contact me at [raymondamem525@gmail.com](mailto:raymondamem525@gmail.com)
+*   ✉️  You can Email me: [raymondamem525@gmail.com](mailto:raymondamem525@gmail.com)
 *   🧠  I'm currently into Web development: NodeJs(express, firebase) Reactjs, Vue and Nuxt alonge with SCSS and Tailwindcss, Desktopapp: ElectronJs, Arduino/Embedded systems Design and Simulations: Arduino IDE and Protues, DevOps(...).
 *   🤝  I'm open to collaborating on 🧲 Web Development 🧲, Arduino/Embedded systems, Desktop apps and mobile apps.
 *   ⚡  I love SCSS and Tailwind as an experienced front-end dev, tweaking it with frontend frameworks 😄
@@ -53,5 +53,5 @@ Software Developer
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/Raymondamem/first_aid_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raymondamem&repo=first_aid_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/Raymondamem/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raymondamem&repo=alx-system_engineering-devops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
- ### Support Me
-<a href="https://www.buymeacoffee.com/Raymondamem"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 😄😄😄
+<!--  ### Support Me -->
+<!-- <a href="https://www.buymeacoffee.com/Raymondamem"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 😄😄😄 -->
