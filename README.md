@@ -5,7 +5,7 @@ Software Developer
 -------------
 
 *   ✉️  [raymondamem525@gmail.com](mailto:raymondamem525@gmail.com)
-*   🧠  I'm currently Software development: NodeJs(express, firebase), Reactjs, Vue, Nuxt, Flutter, ElectronJs alonge with Tailwindcss, SCSS/CSS3, Arduino/Embedded systems Design and Simulations: Arduino IDE and Protues, DevOps(Team work).
+*   🧠  I'm currently Software developer: NodeJs(express, firebase), Reactjs, Vue, Nuxt, Flutter, ElectronJs alonge with Tailwindcss, SCSS/CSS3, Arduino/Embedded systems Design and Simulations: Arduino IDE and Protues, DevOps(Team work).
 *   🤝  I'm open to collaborating on 🧲 Web Development 🧲, Arduino/Embedded systems, Desktop apps and mobile apps.
 *   ⚡  A lover SCSS and Tailwind as an experienced front-end dev, tweaking it with frontend frameworks 😄
 <a href="https://www.github.com/Raymondamem" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Raymondamem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
